@@ -2,6 +2,8 @@
 
 This project performs customer segmentation using KMeans on Mall Customer data.
 
+[Click here to try the app](https://junjinch-mall-clustering-project-app-x53xm2.streamlit.app/)
+
 ## Features
 
 - Load customer data
