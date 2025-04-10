@@ -1,0 +1,14 @@
+2025-04-09 22:05:02,023 - INFO - Data loaded successfully.
+2025-04-09 22:05:02,193 - INFO - KMeans clustering completed with 5 clusters.
+2025-04-09 22:05:02,195 - INFO - Silhouette Score: 0.5532176107575425
+2025-04-09 22:08:15,347 - INFO - Data loaded successfully.
+2025-04-09 22:08:15,462 - INFO - KMeans clustering completed with 5 clusters.
+2025-04-09 22:08:15,464 - INFO - Silhouette Score: 0.5532176107575425
+2025-04-09 22:08:28,944 - INFO - Data loaded successfully.
+2025-04-09 22:08:28,954 - INFO - KMeans clustering completed with 7 clusters.
+2025-04-09 22:08:28,961 - INFO - Silhouette Score: 0.5288104473798049
+2025-04-09 22:08:30,486 - INFO - Data loaded successfully.
+2025-04-09 22:08:30,492 - INFO - KMeans clustering completed with 5 clusters.
+2025-04-09 22:08:30,501 - INFO - Silhouette Score: 0.42086490296494977
+2025-04-09 22:09:08,319 - INFO - KMeans clustering completed with 5 clusters.
+2025-04-09 22:15:56,557 - INFO - KMeans clustering completed with 5 clusters.
